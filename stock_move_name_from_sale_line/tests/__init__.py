@@ -1,1 +1,0 @@
-from . import test_stock_move_name_from_sale_line
